@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Staff</string>
+    <string name="loading">Loading…</string>
+    <string name="Login">đăng nhập</string>
+    <string name="Create_new">Tạo mới</string>
+    <string name="New_workspace">Tạo Workspace</string>
+    <string name="Company">"  Tên Công Ty"</string>
+    <string name="Address">"  Địa chỉ"</string>
+    <string name="Email">"  Email"</string>
+    <string name="Phone">"  Điện thoại"</string>
+    <string name="Number_of_employees">"  Số lượng nhân viên"</string>
+</resources>
